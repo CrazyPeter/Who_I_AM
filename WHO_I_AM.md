@@ -59,7 +59,7 @@
 * 简书：http://www.jianshu.com/u/2659558557cc
 * 今日头条号：http://m.toutiao.com/profile/56321594308/?&tt_from=mobile_qq&utm_source=mobile_qq&utm_medium=toutiao_ios&utm_campaign=client_share
 * *注：各平台文章总浏览量在20w+*
-* *注：这篇简历使用Markdown完成*
+* *注：这篇简历使用Markdown完成，[源码已经发布在个人的Github上]()*
 
 
 
