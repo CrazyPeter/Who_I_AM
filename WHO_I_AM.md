@@ -10,7 +10,8 @@
 * 本科专业：电子信息工程
 * 电话：17701339060
 * Email：k9629@qq.com
-* 寻求职位：项目主管，移动端技术经理，iOS 高级开发，Android中级开发。
+* 寻求职位：项目主管，技术管理经理，iOS高级开发/iOS架构师，Android中级开发。
+* 期望薪资：15k
 <br>
 
 ####个人技能
@@ -18,15 +19,15 @@
 -------
 
 ######移动端：
-* iOS：3年+经验，写过企业级100万用户的APP，也写过工具型App。可以优化开发框架。对c语言有较深入的理解，曾经写过一个c语言网络分析库，供给iOS 和安卓端同时使用。
+* iOS：4年+经验，写过企业级100万用户的APP，也写过工具型App。可以优化开发框架。对c语言有较深入的理解，曾经写过一个c语言网络分析库，供给iOS 和安卓端同时使用。
 * Android：1年+经验。因为曾负责移动端总体开发，对Android框架有一定认识。可以单独写Android APP，可以解决在开发中遇到的技术问题。
 * ReactNative：今年新学习的跨平台框架，可以通过JavaScript语言同时编写iOS和Android两端的APP。执行效果85%接近原生（主要是ReactNative的性能瓶颈）。
 <br>
 
 ######服务器：
 * 服务器端欠缺实际开发经验，有1年的项目管理经验，半年的学习经验。
-* 语言上了解Java、PHP、JavaScript,简单实现过JavaWeb(Tomcat),PHP(MAMP)，JavaScript(Node.js)的服务器。
 * 针对长春使用JavaWeb的技术选型，系统学习了JavaWeb的基础内容。
+* 语言上了解Java、PHP、JavaScript,简单实现过JavaWeb(Tomcat),PHP(MAMP)，JavaScript(Node.js)的服务器。
 * 曾经使用Node.js框架完成过一个数据量在1万左右的多重页面爬虫。
 * 明白API的制定规则，Sql语句的查询逻辑。能看懂后台实现逻辑。
 
